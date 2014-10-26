@@ -13,7 +13,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-  //  overflow: hidden;
+   overflow: hidden;
  //  margin: auto;
    padding-bottom: 50px;
  /*    //box-shadow: 0px 1px 3px #111;
@@ -70,18 +70,7 @@ border-radius:15px;
 background-color:rgba(0,0,0,0.4); 
 
 }
-#intro {    
-//width: 70%;
-//margin:  auto ;
-    
-}
 
-#ob{
-	//background-color: #fe5652;
-	//visibility: hidden;
-
-
-}
 
 .animated {
 
@@ -120,14 +109,41 @@ font-family:Oswald;
 }
 
 
-#service{
+
+#services{
     
-   //  padding: 5em;
-     text-align: center; 
-    background-image: url(../img/bg-services.png);    
+    padding: 2em; 
+    background-image: url(../img/bg-services.png);
+       overflow: hidden;
 }
 
 .space{
     
  padding: 5px;   
+}
+
+.services-icon {
+   display: inline-block;
+  padding: 1em;  
+  color: #999;
+  background-color:rgba(0,0,0,0.2);  
+  text-decoration: none;
+  border-radius:50%;
+  text-shadow: 10px;
+  line-height: 30px ;
+  font-size: 17px;
+  font-weight:bold;
+  -webkit-transition: all 0.3s ease-in;
+  -moz-transition: all 0.3s ease-in;
+  -o-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
+  
+  
+}
+.services-icon:hover {
+color: #000;
+//font-weight: bolder;
+border-radius:0%;
+//background-color:rgba(0,0,0,0.4); 
+
 }
