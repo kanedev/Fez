@@ -125,10 +125,14 @@ font-family:Oswald;
 .services-icon {
    display: inline-block;
   padding: 1em;  
-  color: #999;
-  background-color:rgba(0,0,0,0.2);  
+  color: #47A447;
+ // background-color:rgba(0,0,0,0.2);  
   text-decoration: none;
   border-radius:50%;
+  border-width: 1px;
+  border-color: #4CAE4C;
+ // border: 1px solid #FE4918;
+ border-style: dashed;
   text-shadow: 10px;
   line-height: 30px ;
   font-size: 17px;
@@ -141,9 +145,9 @@ font-family:Oswald;
   
 }
 .services-icon:hover {
-color: #000;
+color: #4CAE4C;
 //font-weight: bolder;
-border-radius:0%;
+border-radius:20%;
 //background-color:rgba(0,0,0,0.4); 
 
 }
