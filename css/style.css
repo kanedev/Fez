@@ -123,31 +123,40 @@ font-family:Oswald;
 }
 
 .services-icon {
-   display: inline-block;
+  display: inline-block;
   padding: 1em;  
-  color: #47A447;
+  color: #5CB85C;
  // background-color:rgba(0,0,0,0.2);  
-  text-decoration: none;
+ // text-decoration: none;
   border-radius:50%;
   border-width: 1px;
   border-color: #4CAE4C;
+ // text-align: center;
  // border: 1px solid #FE4918;
  border-style: dashed;
-  text-shadow: 10px;
-  line-height: 30px ;
-  font-size: 17px;
-  font-weight:bold;
+ // text-shadow: 10px;
+ // line-height: 30px ;
+ // font-size: 17px;
+ // font-weight:bold;
+ //float: inside;
   -webkit-transition: all 0.3s ease-in;
   -moz-transition: all 0.3s ease-in;
   -o-transition: all 0.3s ease-in;
   transition: all 0.3s ease-in;
   
   
+  
+   //   font-size: 40px;
+   // line-height: 100px;
+   
+   // height: 100px;
+   // width: 100px;
+  
 }
 .services-icon:hover {
-color: #4CAE4C;
+color: #47A447;
 //font-weight: bolder;
-border-radius:20%;
-//background-color:rgba(0,0,0,0.4); 
+border-radius:30%;
+border-color:#398439; 
 
 }
