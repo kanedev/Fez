@@ -110,11 +110,10 @@ font-family:Oswald;
 
 
 
-#services{
-    
-    padding: 2em; 
+#services{  
+    //padding: 2em; 
     background-image: url(../img/bg-services.png);
-       overflow: hidden;
+    overflow: hidden;
 }
 
 .space{
@@ -131,10 +130,12 @@ font-family:Oswald;
   border-radius:50%;
   border-width: 1px;
   border-color: #4CAE4C;
+  font-size: 30px;
+  line-height: 20px;
  // text-align: center;
  // border: 1px solid #FE4918;
  border-style: dashed;
- // text-shadow: 10px;
+   text-shadow: 50px;
  // line-height: 30px ;
  // font-size: 17px;
  // font-weight:bold;
@@ -143,15 +144,8 @@ font-family:Oswald;
   -moz-transition: all 0.3s ease-in;
   -o-transition: all 0.3s ease-in;
   transition: all 0.3s ease-in;
-  
-  
-  
-   //   font-size: 40px;
-   // line-height: 100px;
+
    
-   // height: 100px;
-   // width: 100px;
-  
 }
 .services-icon:hover {
 color: #47A447;
