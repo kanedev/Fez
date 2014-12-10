@@ -330,7 +330,7 @@ ol,ul {
 }
 
 
-#screenshots {
+#scroonshots {
     margin:0;
     min-height: 700px;
     background-attachment: scroll;
@@ -341,6 +341,7 @@ ol,ul {
     -o-background-size: cover;
     overflow: hidden;
 }
+
 
 
 .overlay {  
@@ -362,33 +363,55 @@ font-weight: 300;
 line-height: 1.25;
 color: #434A54;
 }
+#screenshots{
+    margin:0;
+    min-height: 700px;
+    background-attachment: scroll;
+   // background: url(../img/grey_wash_wall.jpg) no-repeat center fixed;
+    
+    /* IE10 Consumer Preview */ 
+background-image: -ms-radial-gradient(center top, circle farthest-side, #FFFFFF 0%, #CCCCCC 100%);
 
+/* Mozilla Firefox */ 
+background-image: -moz-radial-gradient(center top, circle farthest-side, #FFFFFF 0%, #CCCCCC 100%);
+
+/* Opera */ 
+background-image: -o-radial-gradient(center top, circle farthest-side, #FFFFFF 0%, #CCCCCC 100%);
+
+/* Webkit (Safari/Chrome 10) */ 
+background-image: -webkit-gradient(radial, center top, 0, center top, 426, color-stop(0, #FFFFFF), color-stop(1, #CCCCCC));
+
+/* Webkit (Chrome 11+) */ 
+background-image: -webkit-radial-gradient(center top, circle farthest-side, #FFFFFF 0%, #CCCCCC 100%);
+
+/* W3C Markup, IE10 Release Preview */ 
+background-image: radial-gradient(circle farthest-side at center top, #FFFFFF 0%, #CCCCCC 100%);
+    
+    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    overflow: hidden;
+}
 .screenshot {
-   // overflow: hidden;
+    border-radius: 10px;
+    overflow: hidden;
     text-align: center;
-    padding: 10px;
-        width: 100%;
+    padding: 5px;
+    width: 100%;
     height: 100%;
-    box-shadow: 0 1px 5px rgba(0,0,0,0.25), 0 0 50px rgba(0,0,0,0.8) inset;
-    background: none repeat scroll 0% 0% #5CB85C;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.4), 0 0 50px rgba(0,0,0,0.3) inset;
+    background: none repeat scroll 0% 0% #ccc;
     color: #BFFEBF;      
     //opacity: 1;  
-    -webkit-transition: all 0.3s ease-in-out;
+/*    -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-}
-.img-hover:hover {
-   opacity: 0.9; 
-   background-color: rgba(50, 60, 70, 0.5);  
-   transform: translate(0px, 0%);
-   visibility: visible;
-   // opacity: 0;
-   //  transition: all 0.4s ease-out 0s;    
+    transition: all 0.3s ease-in-out;*/
 }
 
-
-.img-hover {
+.screenshot-hover {
     
     position: absolute;
     color:#000;
@@ -396,7 +419,7 @@ color: #434A54;
     left: 0px;
     width: 100%;
     height: 200%;
-    background-color : rgba(50, 60, 70, 0.5);
+   // background-color : rgba(50, 60, 70, 0.5);
     //opacity: 0;
    // visibility:  hidden;
     transform: translate(0px, -50%); // scale(1);
@@ -406,18 +429,68 @@ color: #434A54;
     transition: all 0.3s ease-in;
 }
 
-.img-hover i  {
-    position: absolute;
-    top: 25%;
-    color:  #fff;
+.screenshot-hover:hover {
+   //opacity: 0.9; 
+  // background-color: rgba(50, 60, 70, 0.5);  
+   transform: translate(0px, 0%);
+  // visibility: visible;
+   // opacity: 0;
+   //  transition: all 0.4s ease-out 0s;    
+}
+
+.screenshot-description{
+    
+    border-radius: 10px;
+ //   overflow: hidden;
+    text-align: center;
+    padding: 5px;
+    //width: 100%;
+   // height: 100%;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.10), 0 0 50px rgba(0,0,0,0.4) inset;
+    background: none repeat scroll 0% 0% #FFF;
+    color: #e5e5e5; 
+}
+.screen1 {
+
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    height: 50%;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.25), 0 0 50px rgba(0,0,0,0.4) inset;
+   // background: none repeat scroll 0% 0% #5CB85C;
+    color: #BFFEBF;      
+
+}
+.screen2 {
+
+    text-align: center;
+    padding: 10px;
+        width: 100%;
+    height: 50%;
+   // box-shadow: 0 1px 5px rgba(0,0,0,0.25), 0 0 50px rgba(0,0,0,0.8) inset;
+    //background: none repeat scroll 0% 0% #b9def0;
+    color: #BFFEBF;      
+
+}
+
+
+
+
+.screen1 i  {
+   
+ position: absolute;
+ top: 10%;
+ 
+ //display: block;
+ color:  rgba(84, 166, 84, 1);
  transform:  scale(3);
-//transform: translate(20px, 50%) ; //scale(5); 
+//transform: translate(0px, 150%) ; //scale(5); 
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
-.img-hover i:hover  {
+.screen1 i:hover  {
     //position: absolute;
    
    // color:  #fff;
@@ -425,8 +498,17 @@ color: #434A54;
 //transform: translate(20px, 50%) ; //scale(5);    
 }
 
+h5 {
+color: #434A54;
+    font-size: 20px;
+}
 
 
+.screenshot-description-text {
+ font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 14px;
+line-height: 1.42857;
+}
 
 
 
