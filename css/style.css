@@ -663,3 +663,61 @@ feature{
     -ms-transform: rotate(360deg);
     transform: rotate(360deg);*/
 }
+
+.img-team {
+    
+    	width: 200px;
+	height: 200px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+        box-shadow: 0 14px 15px rgba(0,0,0,0.5), 0 4px 50px rgba(0,0,0,0.4) inset;
+}
+
+.team{
+     transform:  scale(1);
+     -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;    
+}
+
+.team:hover{
+    
+   transform:  scale(1.1);  
+    
+}
+
+.team h5 {
+color: #47A447;
+    font-size: 30px;
+
+}
+
+.team p {
+color: #424A59;
+//font-size: 30px;
+}
+
+#call-to-action {
+    
+    /* IE10 Consumer Preview */ 
+background-image: -ms-radial-gradient(center, ellipse farthest-corner, #FFFFFF 0%, #47A447 100%);
+
+/* Mozilla Firefox */ 
+background-image: -moz-radial-gradient(center, ellipse farthest-corner, #FFFFFF 0%, #47A447 100%);
+
+/* Opera */ 
+background-image: -o-radial-gradient(center, ellipse farthest-corner, #FFFFFF 0%, #47A447 100%);
+
+/* Webkit (Safari/Chrome 10) */ 
+background-image: -webkit-gradient(radial, center center, 0, center center, 455, color-stop(0, #FFFFFF), color-stop(1, #47A447));
+
+/* Webkit (Chrome 11+) */ 
+background-image: -webkit-radial-gradient(center, ellipse farthest-corner, #FFFFFF 0%, #47A447 100%);
+
+/* W3C Markup, IE10 Release Preview */ 
+background-image: radial-gradient(ellipse farthest-corner at center, #FFFFFF 0%, #47A447 100%);
+    
+    
+}
