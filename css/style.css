@@ -699,25 +699,33 @@ color: #424A59;
 //font-size: 30px;
 }
 
-#call-to-action {
+.call-to-action {
     
-    /* IE10 Consumer Preview */ 
-background-image: -ms-radial-gradient(center, ellipse farthest-corner, #FFFFFF 0%, #47A447 100%);
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    height: 50%;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.25), 0 0 100px rgba(0,0,0,0.4) inset;
+   // background: none repeat scroll 0% 0% #5CB85C;
+    color: #BFFEBF;    
+      
+}
 
-/* Mozilla Firefox */ 
-background-image: -moz-radial-gradient(center, ellipse farthest-corner, #FFFFFF 0%, #47A447 100%);
+.call-to-action-body{
+padding: 60px;  
+font-size: 30px;    
+}
 
-/* Opera */ 
-background-image: -o-radial-gradient(center, ellipse farthest-corner, #FFFFFF 0%, #47A447 100%);
 
-/* Webkit (Safari/Chrome 10) */ 
-background-image: -webkit-gradient(radial, center center, 0, center center, 455, color-stop(0, #FFFFFF), color-stop(1, #47A447));
-
-/* Webkit (Chrome 11+) */ 
-background-image: -webkit-radial-gradient(center, ellipse farthest-corner, #FFFFFF 0%, #47A447 100%);
-
-/* W3C Markup, IE10 Release Preview */ 
-background-image: radial-gradient(ellipse farthest-corner at center, #FFFFFF 0%, #47A447 100%);
+.call-to-action-text
+{
     
-    
+font-size: 30px;
+ 
+}
+.call-to-action-span
+{
+ //font-size: 30px;   
+color : #47A447 ;   
+ font-weight: 900;
 }
