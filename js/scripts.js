@@ -3,3 +3,5 @@
       interval: 3000
    });
 	/*End: Automatically start the slider */
+        
+        smoothScroll.init();

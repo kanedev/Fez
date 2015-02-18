@@ -729,3 +729,129 @@ font-size: 30px;
 color : #47A447 ;   
  font-weight: 900;
 }
+
+
+.dsd2 {
+    width: 100%;
+/*    height: auto;
+    padding: 17px;
+    margin: 0px auto 30px;
+    background-color: #FFF;
+    box-shadow: none;
+    border-radius: 4px;
+    border: 2px solid #E5E5E5;*/
+}
+.form-control {
+    display: block;
+    width: 95%;
+    //height: 40px;
+  //  height: auto;
+   // padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #555;
+    background-color: #FFF;
+    background-image: none;
+   // border: 1px solid #CCC;
+    border-radius: 6px;
+    padding: 17px;
+      margin:  0px 10px;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+}
+.form-control:hover,.form-control:focus {
+    box-shadow: none;
+    border: 1px solid #CE0C21;
+}
+.input-md{    
+    height: 50px ; 
+  
+}
+#textarea {
+    display: block;
+    margin: auto;
+    color: #CE0C21;
+    width: 95%;
+    resize: none;
+   // margin: 0px auto 30px;
+    height: 118px ;
+}
+
+
+#contact{
+
+padding-top: 20px;
+    
+    
+ 	
+
+/* IE10 Consumer Preview */ 
+background-image: -ms-radial-gradient(center top, circle farthest-corner, #FFFFFF 0%, #EDEDED 100%);
+
+/* Mozilla Firefox */ 
+background-image: -moz-radial-gradient(center top, circle farthest-corner, #FFFFFF 0%, #EDEDED 100%);
+
+/* Opera */ 
+background-image: -o-radial-gradient(center top, circle farthest-corner, #FFFFFF 0%, #EDEDED 100%);
+
+/* Webkit (Safari/Chrome 10) */ 
+background-image: -webkit-gradient(radial, center top, 0, center top, 509, color-stop(0, #FFFFFF), color-stop(1, #EDEDED));
+
+/* Webkit (Chrome 11+) */ 
+background-image: -webkit-radial-gradient(center top, circle farthest-corner, #FFFFFF 0%, #EDEDED 100%);
+
+/* W3C Markup, IE10 Release Preview */ 
+background-image: radial-gradient(circle farthest-corner at center top, #FFFFFF 0%, #EDEDED 100%);    
+    
+    
+}
+
+/*.screenother {  
+ background-color: #47A447;
+ 
+ opacity: 0.5;
+ width: 100%;
+ height: 200px;
+ display: block;      
+}*/
+
+.screenhover{
+    z-index: 300;
+top: 0px;
+left: 0px;
+ 
+//opacity: 0;
+width: 100%;
+height: 100%;
+position: absolute;
+ background-color: #FFF; 
+ opacity: 0;
+ 
+     -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out; 
+   
+}
+
+
+.screenhover:hover {
+     opacity: 0.3;
+}
+
+
+.screenimage{
+height: 100%;
+width: 100%;
+
+}
+ 
+.najma {
+ position: absolute;   
+   // vertical-align:  auto;
+   // display:  block;
+top: 40%;
+left: 45%;
+//left: 0px;
+    
+}
