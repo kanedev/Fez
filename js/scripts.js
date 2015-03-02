@@ -1,7 +1,7 @@
    
 //   $(function() {
        
-          $('.timer').countTo({from: 0, to: 500});
+//          $('.timer').countTo({from: 0, to: 500});
       
 //   });   
    
