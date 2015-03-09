@@ -928,7 +928,7 @@ color : #47A447 ;
     width: 95%;
     resize: none;
    // margin: 0px auto 30px;
-    height: 118px ;
+    height: 138px ;
 }
 
 
@@ -1380,5 +1380,19 @@ overflow: hidden;
 .img-margin {
     
     margin-bottom: 10px;
+    
+    height: 100px;
+    width: 100px;
+    
+}
+.help-block ul > li {
+    
+    color: #cb2027;
+    
+}
+
+.fontions-padding {
+    
+    padding-top:10%;
     
 }
