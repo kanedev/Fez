@@ -46,9 +46,229 @@ Author: M. Abo Elwafa
          -o-border-radius: 5px;
             border-radius: 5px;
 
+
+----------------------------------------------------------------------------------------
+
+/*
+Template Name: AZNARB
+Description: HTML5 / CSS3 One Page
+Version: 1.0
+Author: M. Walid ABARKANE
+*/
+
+
+AZNARB - Multi-purpose responsive landing page 
+
+Credits and Resources :
+-----------------------------
+
+Script Sources :
+----------------
+
+- Bootstrap v3.3.2 - http://getbootstrap.com/
+- jQuery v2.0.0 - http://jquery.com/
+- Font Awesome 4.1.0 - http://fortawesome.github.io/Font-Awesome/
+- jqBootstrapValidation v1.3.6 http://ReactiveRaven.github.com/jqBootstrapValidation/
+- animate.css - http://daneden.github.io/animate.css/
+- html5shiv - https://github.com/aFarkas/html5shiv
+- respond - https://github.com/scottjehl/Respond
+- Bootstrap-Image-Gallery -  https://github.com/blueimp/Bootstrap-Image-Gallery#license
+- Google fonts - http://www.google.com/fonts/
+- Easy pie chart - http://rendro.github.io/easy-pie-chart/
+- WOW.js - https://github.com/matthieua/WOW
+- smooth-scroll - https://github.com/cferdinandi/smooth-scroll
+
+
+Image Sources :
+---------------
+
+subtlepatterns http://subtlepatterns.com/
+unsplash   https://unsplash.com/
+pixabay http://pixabay.com/
+
+Features :
+---------
+
+100% Responsive Design.
+Build with Bootstrap 3.3.2
+Simple & Easy to Use/Customize.
+Working AJAX & PHP contact form with validation.
+Font Awesome icons.
+SEO Optimized.
+Animated Slider.
+CSS3 animations.
+Google Font.
+Smooth Scrolling.
+Lightbox image view.
+Chrome, Firefox, Safari, Opera, IE9+ Compatible.
+Images included in the downloadable file are for demonstration purposes only.
+
+
+Sections :
+---------
+
+Home
+Features
+Services
+Screenshots showcase
+Testimonials
+Download
+Portfolio
+Price Tables
+Team
+Contact
+
+Tags :
+-----
+
+agency,bootstrap 3, business,  corporate, one page, portfolio, responsive,freelance,landing page, single page
+
+
+
+
+ 
+AZNARB is a beautiful  mutli-purpose landing page built with Bootstrp v3 , 
+fully responsive with simple animations, ideal for professional, freelancers, 
+agencies, startup company and business.
+it will be perfect for  showcasing or presenting your product , service or your 
+application ... it's super flexible, clean and has awesome futures, 
+and easy to customize to suit all your needs. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About us  :
+We create awesome themes for your online presence.
+We create perfect responsive Bootstrap themes.
+It’s a wonderful job to design and create templates which serves to so many people and businesses.
+If you need support send us a message via the form on this page, and will get a quick response.
+IMPORTANT: Please, subscribe to my newsletter and receive updates on new themes, plugins, giveaways and other exciting things. Monthly Edition. Subscribe
+Support
+I offer full support and guidance for all my themes. If you require help or assistance, you can either:
+    Leave a comment and I will respond accordingly, (this will help others in the long run).
+    Send me a private message via my profile.
+    Send me an email directly to danielywrighte@gmail.com
+Web designer & developer. I create Wordpress Themes, Bootstrap Templates and PSD Freebies.
+EMAIL UPDATES:
+
+Do you want to get notified when I release new templates, template updates or free templates?
+
+Subscribe to my exclusive newsletter (only for templates): http://goo.gl/xYp1K6
+It’s a wonderful job to design and create templates which serves to so many people and businesses.
+If you need support send us a message via info@damterthemes.com, and will get a quick response.
+
+
+simple animations and modern styles
+It is the perfect landing page for
+
+Create the perfect online presence
+
+
+
+
+
+Create the perfect online presence for your business or digital product. “Apulum” is an HTML/CSS single page template with a modern and clean design, well suited for personal and professional use. Visitors just need to use the scrolling option to find all necessary information about your web project. This is the perfect template to showcase your apps, digital goods or services.
+
+Celic is a responsive multi-purpose landing page built with Twitter Bootstrap that you can use to present and promote your product, service or application. It comes with a clean and modern design, 4 different layouts and has a lot of features as you'll see.
+
+Barnaul is a strong landing page templates for app landing, company or coming soon page
+
+Codelander is a clean and modern one page template. Perfect for any freelancer, agency or company.
+
+It is easy to customize and well documented to suit all your needs.
+
+Diamond is a Bootstrap 3 Landing Page. Ideal for your apps, diamond comes with a beautiful showcase to create a great experience with your visitors.
+
+Any web page that you purposely send traffic to is a ‘landing page’. It’s the page where people end up after they click on a PPC ad, a tweet, an email, or after they scan a QR code – just to name a few.
+
+While you could simply direct this campaign traffic to your homepage or a product page within your website, this doesn’t usually yield the best results.
+
+The page where someone lands after the click has enormous potential to influence whether or not that visitor eventually converts into a lead or sale. Too often, marketers focus most of their attention and budget on attracting and driving good traffic, but that’s really only half of the equation.
+
+Lucky is a responsive, minimalist one page HTML Bootstrap template. Lucky features modern, clean and fresh design. It's suitable for your business website, and so on.
+
+Night Time is a fully responsive, lightweight coming soon page. It features simple animations and modern styles and will be perfect for your next mobile application or web-app.
+
+Kreativa is a fully responsive one-page theme, featuring a smooth scrolling effect. It is the perfect landing page for showcasing or presenting your product and service.
+
+MySurfaceApp is a landing page theme specifically designed to showcase your app features and capabilities. Out-of-the-box contents and resources help create Windows 8, Windows Store and Microsoft Surface App landing pages.
+
+APPcase is a premium theme for those who want to promote and showcase their mobile application, whether it's an iPhone or Android app the graphics can easily be changed to suit your individual requirements.
+
+Designed for users with the simple yet elegant mindset, APPcase provides an easy way to display the features of your mobile app in an effective manner.
+
+All my themes come with a continuous improvement guarantee meaning you'll always receive updates and fixes as well as getting the issues you experience fixed.
+
+Trilli Bi is a responsive landing page built with Bootstrap that you can use to present and promote your product, service or application. It comes with a clean and minimal design, a fullscreen background and has some nice features as you'll see.
+
+Rinjani is clean, stylish, fully responsive, and multi-purpose landing page template that has been created specifically for individual's or business agencies looking for a fresh, new design.
+
+It has 4 homepage styles with 6 navbar styles. All variations are organized separately so you can use / customize the template very easily.
+
+Current release is v1.4. Buying this template now you become eligible to free download all of its future updates.
+
+Ultima is highly customizable and extendible HTML5 landing page. Whether you need to present your product, service, Web App or Mobile App, Ultima has you cover. This feature-rich template build with Bootstrap 3 and has almost all its important components restyled. In addition to this we added some new components and transitions. As the result you have everything you need to build professional looking landing page that will surely impress your visitors. Ultima comes with separate Coming Soon page. While your landing page is under construction show your visitors beautiful coming soon page with the countdown and subscription form. So they always stay connected.
+
+Lamap is a responsive Bootstrap app landing page, crafted to give the best technical and visual experience. Lamap comes in: light and dark version. Valid HTML5/CSS3 and is very well commented and documented for easily customization. The sections can be arranged in any order. Lamap - Multipurpose Landing Page is tested in all major browsers and on a lot of devices.
+
+Cleany is a modern Landing Page template designed to fit all needs. Increase your sales today with well placed optin forms accompanied with a fluid flow of content. The template can be easily adapted and customized. It is fully responsive and can be used for for nearly all purposes. Grab it today!
+
+Cleany has been thoroughly tested in different browsers without any cross browser issue and is fully responsive with valid HTML5 / CSS3 codes. Fully documented.
+
+A modern and responsive landing page to show off your latest product or service.
+
+Lando is responsive. You don’t have to worry about desktops, tablets or mobile devices; it looks great regardless of the platform.
+
+Lando is designed for the real world. Easily embed a promotional video or screenshots if so desired. Impress visitors with an eye-catching features area and beautiful, clear cut pricing tables.
+
+You can hit the ground running. Included are three different layouts, each with four color schemes (plus a style guide for good measure). Coupled with a highly customizable structure, its easy to tweak Lando to your exact needs.
+
+Lando comes with with goodies. The amazing Font Awesome includes 220 iconic icons. FitVids, a lightweight, easy-to-use jQuery plugin for fluid width video embeds. jQuery from Google’s CDN (with local backup just in case). Plus great typography served from Google Fonts.
+
+Oxygen is a modern and elegant Onepage HTML template. Every single detail is carefully designed in order to create a wonderful user experience.
+
+Oxygen is very easy to set up and customize and comes with a well documented help file, which will assist you configure the template in minutes.
+
+Cleany is a modern Landing Page template designed to fit all needs. Increase your sales today with well placed optin forms accompanied with a fluid flow of content. The template can be easily adapted and customized. It is fully responsive and can be used for for nearly all purposes. Grab it today!
+
+Cleany has been thoroughly tested in different browsers without any cross browser issue and is fully responsive with valid HTML5 / CSS3 codes. Fully documented.
+
+Front Row One Page Responsive Theme with video and background image support is a clean and elegant theme suitable for displaying your product, app, business, portfolio or service. Created using the latest HTML5 and CSS3 features. With full responsive design works great on any device.
+
+Elegant solution for harmonizing your growing business
+
+It suddenly struck me that that tiny pea, pretty and blue, was the Earth. I put up my thumb and shut one eye, and my thumb blotted out the planet Earth.
+
+well suited for personal and professional use. Visitors just need to use the scrolling option to find all necessary information about your web project. Use a simple, elegant and effective way to showcase projects and promote services.
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------
 Autumnia is an incredibly beautiful  one-page template built with Bootstrp v3 , fully responsive, ideal for professional, freelancers, agencies, startup company,business, corporate, portfolio.
 
 it works on all main web browser, tables and phones ... it's super flexible, clean and has awesome futures ... It is really easy to use and configure.
+
+
 
 
 
@@ -467,5 +687,92 @@ Features
     Sections (Home / About / Services / Team / Portfolio / Clients / Pricing / Contact)
     Documentation & support
     Images are not included in the downloadable file; they for demonstration purposes only.
+
+
+
+
+
+----------------------------------------------------------------------
+
+
+
+
+Autumnia is an incredibly beautiful  mutli-purpose template built with Bootstrp v3 , fully responsive, ideal for professional, freelancers, agencies, startup company,business, corporate, portfolio.
+it works on all main web browser, tables and phones ... it's super flexible, clean and has awesome futures ... It is really easy to use and configure.
+
+Create the perfect online presence for your business or digital product. “Apulum” is an HTML/CSS single page template with a modern and clean design, well suited for personal and professional use. Visitors just need to use the scrolling option to find all necessary information about your web project. This is the perfect template to showcase your apps, digital goods or services.
+
+Celic is a responsive multi-purpose landing page built with Twitter Bootstrap that you can use to present and promote your product, service or application. It comes with a clean and modern design, 4 different layouts and has a lot of features as you'll see.
+
+Barnaul is a strong landing page templates for app landing, company or coming soon page
+
+Codelander is a clean and modern one page template. Perfect for any freelancer, agency or company.
+
+It is easy to customize and well documented to suit all your needs.
+
+Diamond is a Bootstrap 3 Landing Page. Ideal for your apps, diamond comes with a beautiful showcase to create a great experience with your visitors.
+
+Any web page that you purposely send traffic to is a ‘landing page’. It’s the page where people end up after they click on a PPC ad, a tweet, an email, or after they scan a QR code – just to name a few.
+
+While you could simply direct this campaign traffic to your homepage or a product page within your website, this doesn’t usually yield the best results.
+
+The page where someone lands after the click has enormous potential to influence whether or not that visitor eventually converts into a lead or sale. Too often, marketers focus most of their attention and budget on attracting and driving good traffic, but that’s really only half of the equation.
+
+Lucky is a responsive, minimalist one page HTML Bootstrap template. Lucky features modern, clean and fresh design. It's suitable for your business website, and so on.
+
+Night Time is a fully responsive, lightweight coming soon page. It features simple animations and modern styles and will be perfect for your next mobile application or web-app.
+
+Kreativa is a fully responsive one-page theme, featuring a smooth scrolling effect. It is the perfect landing page for showcasing or presenting your product and service.
+
+MySurfaceApp is a landing page theme specifically designed to showcase your app features and capabilities. Out-of-the-box contents and resources help create Windows 8, Windows Store and Microsoft Surface App landing pages.
+
+APPcase is a premium theme for those who want to promote and showcase their mobile application, whether it's an iPhone or Android app the graphics can easily be changed to suit your individual requirements.
+
+Designed for users with the simple yet elegant mindset, APPcase provides an easy way to display the features of your mobile app in an effective manner.
+
+All my themes come with a continuous improvement guarantee meaning you'll always receive updates and fixes as well as getting the issues you experience fixed.
+
+Trilli Bi is a responsive landing page built with Bootstrap that you can use to present and promote your product, service or application. It comes with a clean and minimal design, a fullscreen background and has some nice features as you'll see.
+
+Rinjani is clean, stylish, fully responsive, and multi-purpose landing page template that has been created specifically for individual's or business agencies looking for a fresh, new design.
+
+It has 4 homepage styles with 6 navbar styles. All variations are organized separately so you can use / customize the template very easily.
+
+Current release is v1.4. Buying this template now you become eligible to free download all of its future updates.
+
+Ultima is highly customizable and extendible HTML5 landing page. Whether you need to present your product, service, Web App or Mobile App, Ultima has you cover. This feature-rich template build with Bootstrap 3 and has almost all its important components restyled. In addition to this we added some new components and transitions. As the result you have everything you need to build professional looking landing page that will surely impress your visitors. Ultima comes with separate Coming Soon page. While your landing page is under construction show your visitors beautiful coming soon page with the countdown and subscription form. So they always stay connected.
+
+Lamap is a responsive Bootstrap app landing page, crafted to give the best technical and visual experience. Lamap comes in: light and dark version. Valid HTML5/CSS3 and is very well commented and documented for easily customization. The sections can be arranged in any order. Lamap - Multipurpose Landing Page is tested in all major browsers and on a lot of devices.
+
+Cleany is a modern Landing Page template designed to fit all needs. Increase your sales today with well placed optin forms accompanied with a fluid flow of content. The template can be easily adapted and customized. It is fully responsive and can be used for for nearly all purposes. Grab it today!
+
+Cleany has been thoroughly tested in different browsers without any cross browser issue and is fully responsive with valid HTML5 / CSS3 codes. Fully documented.
+
+A modern and responsive landing page to show off your latest product or service.
+
+Lando is responsive. You don’t have to worry about desktops, tablets or mobile devices; it looks great regardless of the platform.
+
+Lando is designed for the real world. Easily embed a promotional video or screenshots if so desired. Impress visitors with an eye-catching features area and beautiful, clear cut pricing tables.
+
+You can hit the ground running. Included are three different layouts, each with four color schemes (plus a style guide for good measure). Coupled with a highly customizable structure, its easy to tweak Lando to your exact needs.
+
+Lando comes with with goodies. The amazing Font Awesome includes 220 iconic icons. FitVids, a lightweight, easy-to-use jQuery plugin for fluid width video embeds. jQuery from Google’s CDN (with local backup just in case). Plus great typography served from Google Fonts.
+
+Oxygen is a modern and elegant Onepage HTML template. Every single detail is carefully designed in order to create a wonderful user experience.
+
+Oxygen is very easy to set up and customize and comes with a well documented help file, which will assist you configure the template in minutes.
+
+Cleany is a modern Landing Page template designed to fit all needs. Increase your sales today with well placed optin forms accompanied with a fluid flow of content. The template can be easily adapted and customized. It is fully responsive and can be used for for nearly all purposes. Grab it today!
+
+Cleany has been thoroughly tested in different browsers without any cross browser issue and is fully responsive with valid HTML5 / CSS3 codes. Fully documented.
+
+Front Row One Page Responsive Theme with video and background image support is a clean and elegant theme suitable for displaying your product, app, business, portfolio or service. Created using the latest HTML5 and CSS3 features. With full responsive design works great on any device.
+
+Elegant solution for harmonizing your growing business
+
+It suddenly struck me that that tiny pea, pretty and blue, was the Earth. I put up my thumb and shut one eye, and my thumb blotted out the planet Earth.
+
+well suited for personal and professional use. Visitors just need to use the scrolling option to find all necessary information about your web project. Use a simple, elegant and effective way to showcase projects and promote services.
+
 
 “Hypnos” is an HTML/CSS single page template with a modern and clean design, well suited for personal and professional use. Visitors just need to use the scrolling option to find all necessary information about your web project. Use a simple, elegant and effective way to showcase projects and promote services.
