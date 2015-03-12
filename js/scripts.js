@@ -1,22 +1,8 @@
-   
-//   $(function() {
-       
-//          $('.timer').countTo({from: 0, to: 500});
-      
-//   });   
-   
+  
  smoothScroll.init();
  
   new WOW().init();   
   
-    
-//     $('#pricing').waypoint(function() {
-//     $('#tabe1').toggleClass('animated flipInY');
-//     $('#tabe2').toggleClass('animated flipInY');
-//     $('#tabe3').toggleClass('animated flipInY');
-//     $('#tabe4').toggleClass('animated flipInY');
-//   });
- 
  
  /*Start : Automatically start the slider */
 	$('.carousel').carousel({
@@ -24,11 +10,7 @@
    });
  /*End: Automatically start the slider */
   
-   
-   
-   
-   
-   
+
    
 /*
 Jquery Validation using jqBootstrapValidation
@@ -43,11 +25,12 @@ submitError: function($form, event, errors) {
 // Not decided if I need it yet
 },
 submitSuccess: function($form, event) {
- alert("OK");    
+   
 event.preventDefault(); // prevent default submit behaviour
 // get values from FORM
 var name = $("input#name").val();
 var email = $("input#email").val();
+var object = $("input#object").val();
 var message = $("textarea#message").val();
 var firstName = name; // For Success/Failure Message
 // Check for white space in name for Success/Fail message
@@ -57,7 +40,7 @@ firstName = name.split(' ').slice(0, -1).join(' ');
 $.ajax({
 url: "./bin/contact_me.php",
 type: "POST",
-data: {name: name, email: email, message: message},
+data: {name: name, email: email,object: object, message: message},
 cache: false,
 success: function() {
 // Success message
@@ -65,7 +48,7 @@ $('#success').html("<div class='alert alert-success'>");
 $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
 .append( "</button>");
 $('#success > .alert-success')
-.append("<strong>Walid Your message has been sent. </strong>");
+.append("<strong> Your message has been sent. </strong>");
 $('#success > .alert-success')
 .append('</div>');
 //clear all fields
@@ -76,7 +59,7 @@ error: function() {
 $('#success').html("<div class='alert alert-danger'>");
 $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
 .append( "</button>");
-$('#success > .alert-danger').append("<strong>Sorry "+firstName+" it seems that my mail server is not responding...</strong> Could you please email me directly to <a href='mailto:kanedev@live.fr?Subject=Message_Me from myprogrammingblog.com'>kanedev@live.fr</a> ? Sorry for the inconvenience!");
+$('#success > .alert-danger').append("<strong>Sorry "+firstName+" it seems that my mail server is not responding...</strong> Could you please email me directly to <a href='mailto:YOUR-MAIL@yourmail.com?Subject=Message_Me from '>YOUR-MAIL@yourmail.com</a> ? Sorry for the inconvenience!");
 $('#success > .alert-danger').append('</div>');
 //clear all fields
 $('#contactForm').trigger("reset");

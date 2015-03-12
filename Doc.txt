@@ -1,16 +1,50 @@
 
-http://www.blackenterprise.com/small-business/5-ways-to-fund-your-startup-without-investors/
-http://mashable.com/2013/08/22/advance-career-at-startup/?utm_cid=mash-com-fb-bus-link
+/*
+Template Name: Safandi
+Description: HTML5 / CSS3 One Page
+Version: 1.0
+Author: M. Abo Elwafa
 
 
 
+<div style="visibility: visible; animation-duration: 2s; animation-delay: 300ms; animation-iteration-count: infinite; animation-name: pulse;" class="wow pulse animated" data-wow-delay="300ms" data-wow-iteration="infinite" data-wow-duration="2s">
+                        <a href="http://www.materialup.com/" title="Daily Material Design Inspiration - MaterialUp" target="_blank">
+                          <img src="img/materialup-logo-circle.png" alt="MaterialUp" class="center">
+                        </a>
+                      </div>
 
 
 
+    background: #7DCF3D;
+    background: linear-gradient(#7DCF3D, #52A93E) repeat scroll 0% 0% transparent;    
+    background: -webkit-gradient(linear, left top, left bottom, from(#7DCF3D), to(#52A93E));
+    background: -moz-linear-gradient(top, #7DCF3D,  #52A93E);  
+    background: -ms-linear-gradient(#7DCF3D, #52A93E) repeat scroll 0% 0% transparent; 
+    background: -o-linear-gradient(#7DCF3D, #52A93E) repeat scroll 0% 0% transparent;
 
 
 
+    background: #7DCF3D;
+    background: linear-gradient(#52A93E, #7DCF3D) repeat scroll 0% 0% transparent;
+    background: -ms-linear-gradient(#52A93E, #7DCF3D) repeat scroll 0% 0% transparent; 
+    background: -o-linear-gradient(#52A93E, #7DCF3D) repeat scroll 0% 0% transparent;
+    background: -webkit-gradient(linear, left top, left bottom, from(#52A93E), to(#7DCF3D));
+    background: -moz-linear-gradient(top,#52A93E, #7DCF3D); 
 
+
+
+    transform: translate(0px, -50%); 
+    -ms-transform: translate(0px, -50%); /* IE 9 */
+    -webkit-transform: translate(0px, -50%); /* Chrome, Safari, Opera */
+    -moz-transform:  translate(0px, -50%) ;
+    -o-transform: translate(0px, -50%) ;
+    -sand-transform:translate(0px, -50%) ;
+
+
+        -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+         -o-border-radius: 5px;
+            border-radius: 5px;
 
 Autumnia is an incredibly beautiful  one-page template built with Bootstrp v3 , fully responsive, ideal for professional, freelancers, agencies, startup company,business, corporate, portfolio.
 
