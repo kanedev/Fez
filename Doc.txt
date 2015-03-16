@@ -6,6 +6,21 @@ Version: 1.0
 Author: M. Abo Elwafa
 
 
+<!-- AddThis Button BEGIN -->
+<div class='addthis_toolbox addthis_floating_style addthis_counter_style' style='left:0px;top:50px;'>
+<a class='addthis_button_facebook_like' fb:like:layout='box_count'/>
+<a class='addthis_button_tweet' tw:count='vertical'/>
+<a class='addthis_button_google_plusone' g:plusone:size='tall'/>
+<a class='addthis_counter'/>
+</div>
+<!--<script type='text/javascript'>var addthis_config = {&quot;data_track_addressbar&quot;:true};</script>-->
+<script src='//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53781b5321bdebca' type='text/javascript'/>
+<!-- AddThis Button END -->
+
+
+
+
+
 
 <div style="visibility: visible; animation-duration: 2s; animation-delay: 300ms; animation-iteration-count: infinite; animation-name: pulse;" class="wow pulse animated" data-wow-delay="300ms" data-wow-iteration="infinite" data-wow-duration="2s">
                         <a href="http://www.materialup.com/" title="Daily Material Design Inspiration - MaterialUp" target="_blank">
@@ -50,14 +65,16 @@ Author: M. Abo Elwafa
 ----------------------------------------------------------------------------------------
 
 /*
-Template Name: AZNARB
+Template Name: AZNARB - Multi-purpose responsive landing page 
 Description: HTML5 / CSS3 One Page
 Version: 1.0
 Author: M. Walid ABARKANE
 */
 
 
-AZNARB - Multi-purpose responsive landing page 
+demo : http://apcm.me/demo/aznarb/
+
+ 
 
 Credits and Resources :
 -----------------------------
@@ -90,7 +107,7 @@ Features :
 ---------
 
 100% Responsive Design.
-Build with Bootstrap 3.3.2
+Built with Bootstrap 3.3.2
 Simple & Easy to Use/Customize.
 Working AJAX & PHP contact form with validation.
 Font Awesome icons.
@@ -121,16 +138,16 @@ Contact
 Tags :
 -----
 
-agency,bootstrap 3, business,  corporate, one page, portfolio, responsive,freelance,landing page, single page
 
-
+ bootstrap 3,business, landing page,one page, lead gen, marketing, multi purpose, subscription, portfolio,
+agency,  corporate, responsive,freelance,single page
 
 
  
 AZNARB is a beautiful  mutli-purpose landing page built with Bootstrp v3 , 
 fully responsive with simple animations, ideal for professional, freelancers, 
 agencies, startup company and business.
-it will be perfect for  showcasing or presenting your product , service or your 
+it will be perfect for  showcasing or presenting your product, service or your 
 application ... it's super flexible, clean and has awesome futures, 
 and easy to customize to suit all your needs. 
 
